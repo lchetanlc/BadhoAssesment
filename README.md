@@ -8,4 +8,4 @@ This React Native/Expo app uses the Rick and Morty GraphQL API to fetch and disp
 ![badho2](https://github.com/lchetanlc/BadhoAssesment/assets/81949498/89ddd31e-1712-4e76-bcae-583740755ba6)
 
 ##### Android
-![badho2](https://github.com/lchetanlc/BadhoAssesment/assets/81949498/89ddd31e-1712-4e76-bcae-583740755ba6)
+![badho3](https://github.com/lchetanlc/BadhoAssesment/assets/81949498/880084c8-f6f8-4c8c-b5be-2b7fa4ce58a8)
